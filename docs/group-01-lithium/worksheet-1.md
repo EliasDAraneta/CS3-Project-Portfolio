@@ -8,14 +8,14 @@
 
 | Information                | Details |
 | -------------------------- | ------- |
-| **Proposed Project Title** |         |
-| **Team Members**           | 1.      |
-|                            | 2.      |
-|                            | 3.      |
-|                            | 4.      |
-|                            | 5.      |
-|                            | 6.      |
-| **PSHS-DRC Area/Location** |         |
+| **Proposed Project Title** | Guidance Appointment Management System        |
+| **Team Members**           | 1. Araneta, Juan Elias D.     |
+|                            | 2. Barbon, Czarina Julianna D.     |
+|                            | 3. Dulla, June Jacob S.     |
+|                            | 4. Genita, Kara Ponce M.     |
+|                            | 5. Mending, Homer Hashim S.     |
+|                            | 6. Valdevieso, Kurt Ariel T.     |
+| **PSHS-DRC Area/Location** | Guidance Office        |
 
 ---
 
