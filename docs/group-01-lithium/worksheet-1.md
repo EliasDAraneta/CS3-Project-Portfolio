@@ -79,7 +79,7 @@
 
 ### 1. What would your proposed system do?
 
-> *Write your answer here.*
+> - It would have a log-in feature where users with student credentials will be able to view available time slots
 
 <br>
 
