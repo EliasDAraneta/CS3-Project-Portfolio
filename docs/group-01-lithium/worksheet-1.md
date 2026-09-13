@@ -58,13 +58,18 @@
 
 ### 1. What problems or difficulties did you observe?
 
-> *Write your answer here.*
+> Slow appointment scheduling
+> Back-and-forth communication
+> Limited visibility of available time slots
+> Difficulty tracking appointments
 
 <br>
 
 ### 2. Which part of the process could be improved or automated?
 
-> *Write your answer here.*
+> Appointment Request & Scheduling
+> Appointment Management
+> Appointment Records & Tracking
 
 <br>
 
