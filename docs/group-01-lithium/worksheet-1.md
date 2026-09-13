@@ -23,13 +23,13 @@
 
 ### 1. What process did you observe?
 
-> *Write your answer here.*
+> The process we observed is the booking of appointments with the Guidance Office.
 
 <br>
 
 ### 2. What is the purpose of this process?
 
-> *Write your answer here.*
+> The purpose of this process is to allow students to seek counseling with school guidance services in an organized manner and the Guidance Faculty to keep track of the scheduling of sessions and avoid overlapping appointments.
 
 <br>
 
@@ -39,8 +39,8 @@
 
 | Person/Role | Responsibility in the Process |
 | ----------- | ----------------------------- |
-| 1.          |                               |
-| 2.          |                               |
+| 1. Students         | Book appointments in-person or through email                              |
+| 2. Guidance Faculty         | Handles appointment requests, ensures that there are no conflicts in scheduled sessions                              |
 
 ### 4. What are the steps in the current process?
 
