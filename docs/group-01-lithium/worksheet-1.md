@@ -87,8 +87,8 @@
 
 | User/Role | Possible Use |
 | --------- | ------------ |
-| 1.        |              |
-| 2.        |              |
+| 1. Students       | Easier way to see who is available in the guidance             |
+| 2. Guidance Faculty       | Easier way to communicate availability             |
 
 ### 3. What are the essential features?
 
