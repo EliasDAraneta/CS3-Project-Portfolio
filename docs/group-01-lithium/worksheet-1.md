@@ -51,6 +51,8 @@ In-person
 | 3    |               |                      |
 | 4    |               |                      |
 | 5    |               |                      |
+| 6    |               |                      |
+| 7    |               |                      |
 
 Online
 | Step | What happens? | Person/Role Involved |
@@ -60,6 +62,8 @@ Online
 | 3    |               |                      |
 | 4    |               |                      |
 | 5    |               |                      |
+| 6    |               |                      |
+| 7    |               |                      |
 
 ---
 
