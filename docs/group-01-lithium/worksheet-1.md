@@ -92,7 +92,7 @@ Online
 
 ### 1. What would your proposed system do?
 
-> - It would have a log-in feature where users with student credentials will be able to view available time slots
+> - It would have a log-in feature where users with student credentials will be able to view available time slots while users with staff credentials will be able to display the current schedule and manage appointments.
 
 <br>
 
@@ -100,8 +100,8 @@ Online
 
 | User/Role | Possible Use |
 | --------- | ------------ |
-| 1. Students       | Easier way to see who is available in the guidance             |
-| 2. Guidance Faculty       | Easier way to communicate availability             |
+| 1. Students       | Students can use it to log-in, view available time slots, and book appointments.             |
+| 2. Guidance Faculty       | Guidance Staff can use it to log-in, update available time slots, and confirm, cancel, or reschedule appointments.             |
 
 ### 3. What are the essential features?
 
