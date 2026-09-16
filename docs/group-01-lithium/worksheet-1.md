@@ -46,24 +46,24 @@
 In-person
 | Step | What happens? | Person/Role Involved |
 | ---- | ------------- | -------------------- |
-| 1    |               |                      |
-| 2    |               |                      |
-| 3    |               |                      |
-| 4    |               |                      |
-| 5    |               |                      |
-| 6    |               |                      |
-| 7    |               |                      |
+| 1    |Enter guidance office during break/after dismissal|Student|
+| 2    |Approach guidance staff to request appointment|Student|
+| 3    |Provide name, grade, and section|Student|
+| 4    |Check availability based on schedule|Guidance Faculty|
+| 5    |Provide available time slots|Guidance Faculty|
+| 6    |Choose desired date/time of session|Student|
+| 7    |Record appointment in logbook|Guidance Faculty|
 
 Online
 | Step | What happens? | Person/Role Involved |
 | ---- | ------------- | -------------------- |
-| 1    |               |                      |
-| 2    |               |                      |
-| 3    |               |                      |
-| 4    |               |                      |
-| 5    |               |                      |
-| 6    |               |                      |
-| 7    |               |                      |
+| 1    |Send email requesting appointment|Student|
+| 2    |Provide name, grade, and section|Student|
+| 3    |Receive and review email|Guidance Faculty|
+| 4    |Check availability based on schedule|Guidance Faculty|
+| 5    |Reply to email and provide available time slots|Guidance Faculty|
+| 6    |Send confirmation email|Student|
+| 7    |Record appointment in logbook|Guidance Faculty|
 
 ---
 
