@@ -43,7 +43,16 @@
 | 2. Guidance Faculty         | Handles appointment requests, ensures that there are no conflicts in scheduled sessions                              |
 
 ### 4. What are the steps in the current process?
+In-person
+| Step | What happens? | Person/Role Involved |
+| ---- | ------------- | -------------------- |
+| 1    |               |                      |
+| 2    |               |                      |
+| 3    |               |                      |
+| 4    |               |                      |
+| 5    |               |                      |
 
+Online
 | Step | What happens? | Person/Role Involved |
 | ---- | ------------- | -------------------- |
 | 1    |               |                      |
@@ -96,6 +105,7 @@
 
 | Feature | Purpose |
 | ------- | ------- |
-| 1.      |         |
-| 2.      |         |
-| 3.      |         |
+| 1. Student and Staff Log-in     | Students and staff will access different parts of the system based on their log-in type.       |
+| 2. Schedule Management     | Staff will be able to display the current schedule including the available time slots.        |
+| 3. Appointment Booking     | Students will be able to book an appointment by interacting with the digital schedule.        |
+| 4. Appointment Management     | Students/staff will be able to view, cancel, or reschedule appointments.         |
