@@ -2,13 +2,13 @@
 
 ## Members
 
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
+1. Araneta, Juan Elias D.
+2. Barbon, Czarina Julianna D.
+3. Dulla, June Jacob S.
+4. Genita, Kara Ponce M.
+5. Mending, Homer Hashim S.
+6. Valdevieso, Kurt Ariel T.
 
 ## Project Title
 
-_To be determined._
+Guidance Appointment Management System
